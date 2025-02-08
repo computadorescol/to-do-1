@@ -18,7 +18,7 @@ function NoteProviderWrapper(props){
       }
       
       
-      
+      /*agregamos a la api */
       const  addNote = async (newNote)=>{
        try{
         await fetch(API_URL,{

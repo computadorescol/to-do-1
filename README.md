@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-explication : thsisimple initial app is a demo to make working an API using beeceptor. 
+explication : this  simple initial app is a demo to make working an API using beeceptor. 
 react app from amaizing. usando api beeceptor
